@@ -11,7 +11,7 @@ permalink: /publications/
 * [**Deep Motion Transfer without Big Data**](https://www.youtube.com/watch?v=hrARRDrawIQ&t=15s), ***SIGGRAPH 2018*** *(Poster Session)*, August 12-16, 2018, Vancouver, BC, Canada
 
 ## International Patents
-* **Apparatus and Method for Motion Synthesization**, USA Patent Pending
+* **Apparatus and Method for Motion Synthesization**, USA 20200035008 출원
 * **Method for Rendering Terrain**, USA 9959670(2018.05.01)
 
 ## Domestic Patents
